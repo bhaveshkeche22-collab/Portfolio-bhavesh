@@ -3,3 +3,5 @@ Flask
 mysql-connector-python
 python-dotenv
 google-genai
+
+uvicorn
